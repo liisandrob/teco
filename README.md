@@ -7,19 +7,16 @@ Se utilizó patrón MVC.
 
 ```
 $ npm init
-```
 
-* Environment: Production
-```
 $ npm i express config morgan mongoose
 ```
 
-* Environment: Development
+* Developers
 ```
 $ npm i -D nodemon webpack webpack-cli react react-dom  @babel/core @babel/preset-env @babel/preset-react babel-loader
 ```
 
-### Deploy
+## Deploy
 
 * Environment: Production
 
